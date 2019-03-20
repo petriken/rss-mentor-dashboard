@@ -1,13 +1,13 @@
 {
-  "main.css": "/rss-mentor-dashboard/static/css/main.6d5a55de.chunk.css",
-  "main.js": "/rss-mentor-dashboard/static/js/main.dc5d016a.chunk.js",
-  "main.js.map": "/rss-mentor-dashboard/static/js/main.dc5d016a.chunk.js.map",
+  "main.css": "/rss-mentor-dashboard/static/css/main.3d8c23a8.chunk.css",
+  "main.js": "/rss-mentor-dashboard/static/js/main.6ee1973a.chunk.js",
+  "main.js.map": "/rss-mentor-dashboard/static/js/main.6ee1973a.chunk.js.map",
   "runtime~main.js": "/rss-mentor-dashboard/static/js/runtime~main.5280a2c0.js",
   "runtime~main.js.map": "/rss-mentor-dashboard/static/js/runtime~main.5280a2c0.js.map",
   "static/js/2.dd918d92.chunk.js": "/rss-mentor-dashboard/static/js/2.dd918d92.chunk.js",
   "static/js/2.dd918d92.chunk.js.map": "/rss-mentor-dashboard/static/js/2.dd918d92.chunk.js.map",
   "index.html": "/rss-mentor-dashboard/index.html",
-  "precache-manifest.9ee30ab2cebe23c83cf6e72fbceaf0d7.js": "/rss-mentor-dashboard/precache-manifest.9ee30ab2cebe23c83cf6e72fbceaf0d7.js",
+  "precache-manifest.d375b7125cabc5ceb4b57e9ce2263239.js": "/rss-mentor-dashboard/precache-manifest.d375b7125cabc5ceb4b57e9ce2263239.js",
   "service-worker.js": "/rss-mentor-dashboard/service-worker.js",
-  "static/css/main.6d5a55de.chunk.css.map": "/rss-mentor-dashboard/static/css/main.6d5a55de.chunk.css.map"
+  "static/css/main.3d8c23a8.chunk.css.map": "/rss-mentor-dashboard/static/css/main.3d8c23a8.chunk.css.map"
 }
