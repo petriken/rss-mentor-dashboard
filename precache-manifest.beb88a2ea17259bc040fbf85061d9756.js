@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/rss-mentor-dashboard/static/css/main.1a3cc2e7.chunk.css"
   },
   {
-    "revision": "c8d9ff15d7fbdf871b9c1b288bba2cec",
+    "revision": "c94ecc96e8488d98e2d095ecd9efeb0e",
     "url": "/rss-mentor-dashboard/index.html"
   }
 ];
